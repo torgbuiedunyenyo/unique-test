@@ -1,6 +1,6 @@
 # unique-test
 
-Writeup of the results of this experiment can be found here: 
+Writeup of the results of this experiment can be found here: https://handshakefyi.substack.com/p/which-llm-produces-more-unique-ideasaccording
 
 In this analysis, a writer model produced an output, which was accepted or rejected by a judge model.
 
